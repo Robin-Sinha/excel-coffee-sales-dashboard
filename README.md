@@ -29,7 +29,8 @@ The dashboard provides insights into sales trends, customer performance, product
 
 ## Dashboard Preview
 
-(Add screenshot here after upload)
+<img width="1467" height="653" alt="image" src="https://github.com/user-attachments/assets/65852660-0fac-4ade-834f-f6124baa54b9" />
+
 
 ## Key Learnings
 
